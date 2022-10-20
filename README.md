@@ -20,3 +20,5 @@ Play4: A two player game: onecard versus pairs
 Play5: A two player game: onecard versus smart
 Play6: A two player game: pairs versus smart
 Play7: A four player game involving one of each type of player (fast, onecard, pairs and smart).
+
+![Design](https://user-images.githubusercontent.com/90759664/196842241-82eaad59-963e-49f2-92cb-1edba821c50c.png)
